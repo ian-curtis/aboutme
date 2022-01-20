@@ -23,6 +23,10 @@ One cool fact: I'm **left handed**. Another fact I think is cool about me is I h
 
 Snow leopard.
 
+## My Favorite Food
+
+Chickpea curry (with rice).
+
 ## Extra Credit
 
 ### My Favorite Colors
