@@ -19,6 +19,10 @@ One cool fact: I'm **left handed**. Another fact I think is cool about me is I h
 * Taylor Swift
 * Cécilia Cara
 
+## My Favorite Animal
+
+Snow leopard.
+
 ## Extra Credit
 
 ### My Favorite Colors
