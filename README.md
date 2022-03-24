@@ -27,6 +27,10 @@ Snow leopard.
 
 Chickpea curry (with rice).
 
+## My Birth Country
+
+I was born in the United States.
+
 ## Extra Credit
 
 ### My Favorite Colors
