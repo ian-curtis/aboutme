@@ -52,3 +52,24 @@ Below, I have put an image of my two dogs, Sadie and Finn. They are both begging
 
 I think my current favorite video is [this Vsauce video on counting past infinity](https://www.youtube.com/watch?v=SrU9YDoXE88). It boggles my mind 
 every time I watch it (and I've watched it many times).
+
+### Some Code
+
+Here is the code for a (rather useless) Python function to compute the mean between some inputted numbers:
+
+```
+def take_avg(list_nums):
+  sum_of_nums = sum(list_nums)
+  avg_of_nums = sum_of_nums / len(list_nums)
+  return avg_of_nums
+
+take_avg([10, 23, 28, 4, 13, 4, 9])
+```
+
+True, I could just use `numpy` for this.
+
+```
+import numpy as np
+
+avg_of_nums = np.mean([10, 23, 28, 4, 13, 4, 9])
+```
