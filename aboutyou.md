@@ -8,7 +8,7 @@ Responses will be moderated. No explicit content whatsoever will be accepted (ke
 
 ## Ian Curtis
 
-I am writing this in May 2022 from Michigan in the United States. I am left-handed and I can play piano and violin.
+I am writing this in May 2022 from Michigan in the United States. I can play piano and violin.
 
 ## Next Person
 
